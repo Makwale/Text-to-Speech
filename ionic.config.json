@@ -1,0 +1,7 @@
+{
+  "name": "TTS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
